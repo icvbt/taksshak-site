@@ -1,0 +1,5 @@
+*.bak
+*.pre-glfix
+*.pre-rewrite
+download_log.txt
+download_new_log.txt
